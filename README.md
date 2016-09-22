@@ -14,3 +14,9 @@ Your statements should include:
     * **Including an fake data set**
 
 Good luck!
+
+Problem Statement
+
+Online courses are designed differently, with the sequence of assignments, when content is available, and the timeframes for prompting student engagement varying wildly between different instances. I would like to better understand how students engage with online courses and how this may impact their performance and achievement. In completing this goal, I hope to inform course design practices that increase meaningful engagement in online courses by revealing where students spend time in relation to their contributions within the learning system. 
+
+While this project may have many objectives, I would like to prioritize tasks that rely on existing data to create features grounded within educational theory. The method in which the data is interpreted to create insights from log data captured from technology-driven educational systems seem complex. Generating features that examine student engagement and behavioral patterns in online courses as they relate to achievement by measuring time spent within course content, when course content is made available, behavior patterns of engagement by time and effort (amount of words in a discussion board reply), if the interactions are leader vs contributor (originating post vs reply to a post), student achievement (grades), and attempts made is paramount to successful analysis. 
