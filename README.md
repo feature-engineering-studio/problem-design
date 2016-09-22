@@ -40,4 +40,4 @@ Your statements should include:
     * James     004      108        12:00          2               phone           Positive
     * Sean      005       89        17:37          0               phone           Negative
 
-
+The format for my fake data table seems off...
