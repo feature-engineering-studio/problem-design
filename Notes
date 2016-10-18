@@ -17,3 +17,16 @@ Three visualizations
 One viz must demonstrate something you learned that relates to your logic model
 R, Plotly, Tableau, excel
 
+Markdown doc
+
+Process
+1. Describe data
+2. Choose methodology
+3. Make notes on the purpose of the method
+4. What data structure does method need? What structure do you have?
+5. Make notes on the limitations of the method
+6. Research the code
+7. Toy data
+8. What are the expected results?
+9. Apply the code to your data
+
