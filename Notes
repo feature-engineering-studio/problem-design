@@ -30,3 +30,6 @@ Process
 8. What are the expected results?
 9. Apply the code to your data
 
+Feature Engineering
+Using domain expertise to reason about what should be included in a model (i.e. classifier)
+very similar to educational statistics
