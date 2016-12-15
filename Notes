@@ -1,0 +1,41 @@
+Logic Model/Theory of Action (scientific method)
+
+Input -  theory we're collecting, other thoughts about it, data points we had collected, opinions from someone , more qualatative?
+Activity - Activities we care about (maybe artists going to Apple Music and being vocal?)
+Output - What are we counting? What can we actually capture?  How granular? (how many time slices?) What meaning is ascribed to it? 
+Outcomes -  What do we care about? (i want artists to utilize music streaming services to their benefit and see them as a beneficial tool for them as opposed to something that hurts them - prevent exclusives)
+
+Tidy data
+manageable data
+observations in rows
+variables are in columns
+for 10/6
+
+10/11
+Visualization 
+Three visualizations
+One viz must demonstrate something you learned that relates to your logic model
+R, Plotly, Tableau, excel
+
+Markdown doc
+
+Process
+1. Describe data
+2. Choose methodology
+3. Make notes on the purpose of the method
+4. What data structure does method need? What structure do you have?
+5. Make notes on the limitations of the method
+6. Research the code
+7. Toy data
+8. What are the expected results?
+9. Apply the code to your data
+
+Feature Engineering
+Using domain expertise to reason about what should be included in a model (i.e. classifier)
+very similar to educational statistics
+
+Construct Validity
+Methodology Statement
+  A description of the method you plan to employ to analze your data
+  A list of assumptions, "gotchas" or other considerations you need to be aware of to use that method
+  How you plan to validate both model and constructs
